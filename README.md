@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://instagram.com/fatth.akbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://fb.com/fattah.akbar.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://line.me/ti/p/o6iVgjq3j9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fxrdhan" height="30" width="40" /></a>
-</p>
+<a href="https://line.me/ti/p/N4D3ePZqVc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="fxrdhan" height="30" width="40" /></a>
