@@ -21,6 +21,11 @@ Here are some ideas to get you started:
          style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ftmsdbr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+</div>
+<h2 align="center">Streak</h2>
+
 <h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://instagram.com/fatth.akbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
