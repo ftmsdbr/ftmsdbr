@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://tenor.com/id/view/alisa-kujou-roshidere-anime-pouting-blush-gif-1876289628210373558" 
+    <img src="https://media1.tenor.com/m/YvAq_DHTxfgAAAAC/alisa-kujou-roshidere.gif" 
          alt="Glitch Look" 
          style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
