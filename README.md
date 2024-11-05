@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> Hi there 👋⚡</h1>
 
 <!--
 **ftmsdbr/ftmsdbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-<a href="https://instagram.com/fatth.akbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://fb.com/fattah.akbar.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://line.me/ti/p/N4D3ePZqVc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="fxrdhan" height="30" width="40" /></a>
+<a href="https://instagram.com/fatth.akbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://fb.com/fattah.akbar.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://line.me/ti/p/N4D3ePZqVc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="line" height="30" width="40" /></a>
