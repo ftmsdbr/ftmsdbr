@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+    <img src="https://tenor.com/id/view/alisa-kujou-roshidere-anime-pouting-blush-gif-1876289628210373558" 
+         alt="Glitch Look" 
+         style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
+</div>
+
 <h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://instagram.com/fatth.akbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
