@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://media1.tenor.com/m/mkFCJfFodToAAAAd/alisa-kujou-roshidere.gif" alt="Alyasan" style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ftmsdbr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ftmsdbr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"/>
 </div>
 
 <h2 align="center">Connect with Me</h2>
